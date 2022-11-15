@@ -1,4 +1,4 @@
-                                            ![](https://media0.giphy.com/media/3otPorWLQJq5GmHRtu/giphy.gif)
+![](https://media0.giphy.com/media/3otPorWLQJq5GmHRtu/giphy.gif)
 
 <h1 align="center">Hi, I'm Fadi Hachani 🥨</h1>
 
