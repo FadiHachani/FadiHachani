@@ -14,3 +14,7 @@
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/daweedkob/count.svg" />
 </p>
+![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=anuraghazra&repo=github-readme-stats&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
+
+-   Top languages
+
